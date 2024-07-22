@@ -1,0 +1,2 @@
+import{b as t}from"/build/_shared/chunk-45HVJOSI.js";import{a as d,b as r}from"/build/_shared/chunk-3YOPFW4A.js";import{d as n}from"/build/_shared/chunk-5YSEWQXG.js";var e=n(d());var i=n(r()),m=(0,e.forwardRef)(({className:p,...o},c)=>(0,i.jsx)("input",{className:t("w-full","rounded","border-2","border-zinc-500","text-zinc-900","dark:text-zinc-50","bg-zinc-50","dark:bg-zinc-700","px-2","py-1",p),...o,ref:c}));m.displayName="Input";export{m as a};
+//# sourceMappingURL=/build/_shared/chunk-UU7ZMDBB.js.map

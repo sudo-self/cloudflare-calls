@@ -1,0 +1,2 @@
+import{a as _,n as r}from"/build/_shared/chunk-LQCCCPTH.js";import{a as E,b as e}from"/build/_shared/chunk-3YOPFW4A.js";import{b as y,d as t}from"/build/_shared/chunk-5YSEWQXG.js";var n=y(o=>{"use strict";var i=_();o.createRoot=i.createRoot,o.hydrateRoot=i.hydrateRoot;var m});var a=t(E()),s=t(n()),R=t(e());(0,a.startTransition)(()=>{(0,s.hydrateRoot)(document,(0,R.jsx)(r,{}))});
+//# sourceMappingURL=/build/entry.client-6H5TSJSM.js.map
